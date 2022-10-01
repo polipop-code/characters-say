@@ -1,8 +1,13 @@
+import { CharacterCard } from "./components/character card";
+import "./AppUI.css";
+
 function App() {
 	return (
 		<div className="App">
-			<h1>Hola</h1>
-			<p>Hola</p>
+			<div className="main-container">
+				<h1>Between cityes, characters wiki</h1>
+				<CharacterCard />
+			</div>
 		</div>
 	);
 }

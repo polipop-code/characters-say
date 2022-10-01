@@ -1,0 +1,8 @@
+.App {
+	display: grid;
+	grid-template-columns: repeat(12, 1fr);
+}
+
+.main-container {
+	grid-column: 2 / 12;
+}
