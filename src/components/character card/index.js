@@ -5,7 +5,7 @@ function CharacterCard() {
 	return (
 		<div className="card-container">
 			<figure>
-				<img src="" alt="" />
+				<img src="https://i.pinimg.com/564x/05/01/ba/0501ba3acc682a75faf09795a0ecde1e.jpg" alt="" />
 			</figure>
 			<article>
 				<h3>Name</h3>

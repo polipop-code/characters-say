@@ -6,3 +6,8 @@
 .main-container {
 	grid-column: 2 / 12;
 }
+
+.main-container h1 {
+	margin: 4rem 0;
+	text-align: center;
+}
