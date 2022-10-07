@@ -2,7 +2,7 @@
   "name": "characters-say",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://polipop-code.github.io/characteers-say",
+  "homepage": "http://polipop-code.github.io/characteers-say",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
