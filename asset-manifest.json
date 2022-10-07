@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/characteers-say/static/css/main.ac15a7ff.css",
+    "main.js": "/characteers-say/static/js/main.82cc3a98.js",
+    "index.html": "/characteers-say/index.html",
+    "main.ac15a7ff.css.map": "/characteers-say/static/css/main.ac15a7ff.css.map",
+    "main.82cc3a98.js.map": "/characteers-say/static/js/main.82cc3a98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac15a7ff.css",
+    "static/js/main.82cc3a98.js"
+  ]
+}
