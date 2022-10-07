@@ -1,17 +1,19 @@
 import React from "react";
 import "./characterCard.css";
 
-function CharacterCard() {
+function CharacterCard(props) {
 	return (
 		<div className="card-container">
 			<figure>
-				<img src="https://i.pinimg.com/564x/05/01/ba/0501ba3acc682a75faf09795a0ecde1e.jpg" alt="" />
+				<img src={props.imgURL} alt="" />
 			</figure>
 			<article>
-				<h3>Name</h3>
-				<p>Details</p>
-				<p>Story</p>
-				<p>Phrase</p>
+				<h3>{props.name}</h3>
+				<p>{props.details}</p>
+				<p>{props.story}</p>
+				<p>
+					<strong>{props.phrase}</strong>
+				</p>
 			</article>
 		</div>
 	);
